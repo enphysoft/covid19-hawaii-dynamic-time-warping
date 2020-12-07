@@ -1,3 +1,4 @@
 # covid19-hawaii-dynamic-time-warping
-![](/img/dtw-example.png)
  
+ 
+https://github.com/enphysoft/covid19-hawaii-dynamic-time-warping/blob/main/img/dwt-example.png
