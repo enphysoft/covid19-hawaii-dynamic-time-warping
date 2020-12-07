@@ -12,5 +12,6 @@ The Euclidean distance between two vectors are calculated using the graphical me
 
  
 ## Original and Aliged Vectors after DTW transformation 
+Both graphical method and DTW show the Euclidean distance between two vectors, equal to 2.0.
 ![Original and aliged vectors after dtw transformation](https://github.com/enphysoft/covid19-hawaii-dynamic-time-warping/blob/main/img/fig.ExampleDTW.png)
 
